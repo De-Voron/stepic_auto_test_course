@@ -1,2 +1,2 @@
 # stepic_auto_test_course
-3_Frameworks
+Learning with Stepic https://stepik.org/lesson/187065
